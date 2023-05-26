@@ -1,5 +1,7 @@
 # RpiFanControl
 
+**WIP!!! Not useful right now!**
+
 Raspberry Pi PWM fan control for Venus OS
 
 Based on [RpiTemperature](https://github.com/TimD1981/RpiTemperature).
